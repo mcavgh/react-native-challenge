@@ -10,7 +10,7 @@
 
 ### Pasos de Instalación
 
-1. Descargar el repositorio .rar y descomprimirlo:
+1. Descargar el repositorio 
 
 2. **Instalar dependencias**
 ```bash
