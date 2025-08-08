@@ -98,7 +98,9 @@ Presentation → Application → Domain ← Infrastructure
      ↓           	↓           ↑    		   ↑
    UI/UX         Use Cases   Entities       HTTP Clients
   Components     Hooks       Types   	    Api client
-  Screens        Stores      Interfaces  
+  Screens        Stores      Interfaces
+                 Providers
+                 Router
 ```
 ### 2. Gestión de Estado con Zustand
 **Decisión**: Usar Zustand en lugar de Redux o Context API.
