@@ -1,0 +1,34 @@
+{
+  "navigation": {
+    "posts": "Posts",
+    "users": "Users",
+    "favorites": "Favorites"
+  },
+  "posts": {
+    "title": "Posts",
+    "errorLoading": "Error loading posts"
+  },
+  "users": {
+    "title": "Users",
+    "errorLoading": "Error loading users"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "empty": "You have no favorites",
+    "emptyDescription": "Add posts to your favorites to see them here"
+  },
+  "postDetail": {
+    "title": "Post Detail",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites"
+  },
+  "common": {
+    "favorite": "Favorite",
+    "retry": "Retry",
+    "search": "Search",
+    "content": "Content",
+    "share": "Share",
+    "addFavorite": "Add to favorites",
+    "removeFavorite": "Remove from favorites"
+  }
+}

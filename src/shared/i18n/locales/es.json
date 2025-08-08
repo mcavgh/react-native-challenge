@@ -1,0 +1,34 @@
+{
+  "navigation": {
+    "posts": "Publicaciones",
+    "users": "Usuarios",
+    "favorites": "Favoritos"
+  },
+  "posts": {
+    "title": "Publicaciones",
+    "errorLoading": "Error al cargar las publicaciones"
+  },
+  "users": {
+    "title": "Usuarios",
+    "errorLoading": "Error al cargar los usuarios"
+  },
+  "favorites": {
+    "title": "Favoritos",
+    "empty": "No tienes favoritos",
+    "emptyDescription": "Agrega publicaciones a tus favoritos para verlas aquí"
+  },
+  "postDetail": {
+    "title": "Detalle de Publicación",
+    "addToFavorites": "Agregar a Favoritos",
+    "removeFromFavorites": "Quitar de Favoritos"
+  },
+  "common": {
+    "favorite": "Favorito",
+    "retry": "Reintentar",
+    "search": "Buscar",
+    "content": "Contenido",
+    "share": "Compartir",
+    "addFavorite": "Agregar a favoritos",
+    "removeFavorite": "Quitar de favoritos"
+  }
+}
